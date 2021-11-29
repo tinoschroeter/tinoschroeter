@@ -27,5 +27,5 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
   },
-};
+}
 ```
