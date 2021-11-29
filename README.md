@@ -8,12 +8,13 @@
 
 ```javascript
 const tino = {
-  bio: "passionate DevOps Engineer and self-taught full stack web developer",
+  bio: "passionate DevOps Engineer and self-taught web developer",
   code: ["Javascript", "Node.js", "React", "HTML", "CSS", "Bash"],
   technologies: {
     tools: ["Kubernetes", "Docker", "Terraform", "Ansible", "Chef"],
     databases: ["mongoDB", "MySql", "PostgreSQL"],
     misc: [
+      "Linux",
       "Kibana",
       "Prometheus",
       "Grafana",
