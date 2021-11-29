@@ -26,8 +26,7 @@ const tino = {
       "Haproxy",
     ],
     cloud: ["AWS", "GCP", "Firebase"],
+    IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"]
   },
 };
 ```
-
-
