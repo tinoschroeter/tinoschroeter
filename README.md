@@ -5,6 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/tinoschroeter?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://tino.sh/)](https://tino.sh/)
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=tinoschroeter.tinoschroeter)
+![](https://img.shields.io/github/last-commit/tinoschroeter/tinoschroeter.svg?style=flat)
 [![GitHub Super-Linter](https://github.com/tinoschroeter/tinoschroeter/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/tinoschroeter/tinoschroeter/actions/workflows/linter.yml)
 
 ```javascript
