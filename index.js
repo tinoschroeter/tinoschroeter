@@ -8,14 +8,15 @@ const api =
 axios
   .get(api)
   .then((response) => {
-    const joke = response.data.replace(/(?:\r\n|\r|\n)/g, " ").replace(/"/g, "");
+    const joke = response.data
+      .replace(/(?:\r\n|\r|\n)/g, " ")
+      .replace(/"/g, "");
 
     fs.readFile("./README.md", "utf8", (err, data) => {
       if (err) {
         console.error(err);
         return;
       }
-
       const updateFile = data.replace(/^.*joke:.*$/gm, `    joke: "${joke}"`);
 
       fs.writeFile("./README.md", updateFile, (err) => {
