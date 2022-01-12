@@ -25,7 +25,7 @@ jobs:
         with:
           author_name: Tino Schroeter
           author_email: tino.schroeter@gmail.com
-          message: "Add new Joke =]"
+          message: ":robot: Add new Joke =]"
           add: "README.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
