@@ -2,7 +2,7 @@ name: Update joke
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* */6 * * *"
   workflow_dispatch:
 
 jobs:
