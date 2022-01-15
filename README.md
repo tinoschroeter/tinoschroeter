@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "We messed up the keming again guys."
+    joke: "Debugging: Removing the needles from the haystack."
   },
 };
 ```
