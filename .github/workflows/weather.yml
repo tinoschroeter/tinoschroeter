@@ -2,7 +2,7 @@ name: Update weather
 
 on:
   schedule:
-    - cron: "0 7-23 * * *"
+    - cron: "*/20 7-23 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
         with:
           author_name: Tino Schroeter
           author_email: tino.schroeter@gmail.com
-          message: ":robot: Add weather icon =]"
+          message: ":robot: Add weather icon :cloud:"
           add: "weather.svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
