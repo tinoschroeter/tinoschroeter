@@ -2,7 +2,7 @@ name: Update weather night time
 
 on:
   schedule:
-    - cron: "0 23-7 * * *"
+    - cron: "1 0-7 * * *"
   workflow_dispatch:
 
 jobs:
