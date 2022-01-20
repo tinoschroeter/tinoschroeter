@@ -1,12 +1,12 @@
-name: Update weather
+name: Update weather night time
 
 on:
   schedule:
-    - cron: "*/20 7-23 * * *"
+    - cron: "0 23-7 * * *"
   workflow_dispatch:
 
 jobs:
-  weather:
+  weather-night:
     runs-on: ubuntu-latest
 
     steps:
