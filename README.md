@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
   },
 };
 ```
