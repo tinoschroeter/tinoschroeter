@@ -7,6 +7,7 @@ weather.find({ search: "Hamburg", degreeType: "C" }, (err, result) => {
 
   const data = result[0].current;
   const date = new Date();
+  console.log(data)
 
   let picker = 0;
   const icon = ["", "☁️", "❄️", "☀️", "🌧️", "🌩️", "🌜"];
