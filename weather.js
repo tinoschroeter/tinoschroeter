@@ -1,6 +1,6 @@
+const fs = require("fs");
 const weather = require("weather-js");
 const { makeBadge, ValidationError } = require("badge-maker");
-const fs = require("fs");
 
 weather.find({ search: "Hamburg", degreeType: "C" }, (err, result) => {
   if (err) return console.error(err);
