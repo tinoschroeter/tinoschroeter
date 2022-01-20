@@ -7,7 +7,7 @@ weather.find({ search: "Hamburg", degreeType: "C" }, (err, result) => {
 
   const data = result[0].current;
   const date = new Date();
-  console.log(data)
+  console.log(data);
 
   let picker = 0;
   const icon = ["", "☁️", "❄️", "☀️", "🌧️", "🌩️", "🌜"];
@@ -18,7 +18,7 @@ weather.find({ search: "Hamburg", degreeType: "C" }, (err, result) => {
   if (data.skytext.match(/[sS]un/g)) picker = 3;
   if (data.skytext.match(/[rR]ain/g)) picker = 4;
   if (data.skytext.match(/[tT]hunder/g)) picker = 5;
-  if (picker === 0 && date.getHours() > 20) picker = 6;
+  if (picker === 0 && (date.getHours() > 20 || date.getHours() < 7)) picker = 6;
 
   const svg = makeBadge({
     label: "Hamburg ",
