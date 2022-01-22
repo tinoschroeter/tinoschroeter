@@ -33,4 +33,4 @@ const tino = {
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinoschroeter&layout=compact&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![automate](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/automate.png)]
+[automate](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/automate.png)
