@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "We messed up the keming again guys."
+    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
   },
 };
 ```
