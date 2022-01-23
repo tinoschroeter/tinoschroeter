@@ -10,7 +10,7 @@ weather.find({ search: "Hamburg", degreeType: "C" }, (err, result) => {
   console.log(data);
 
   let picker = 0;
-  const icon = ["", "☁️", "❄️", "☀️", "🌧️", "🌩️", "🌜"];
+  const icon = ["", "☁️ ", "❄️ ", "☀️ ", "🌧️ ", "🌩️ ", "🌜"];
 
   if (data.skytext.match(/[cC]loudy/g)) picker = 1;
   if (data.skytext.match(/[iI]cy/g)) picker = 2;
