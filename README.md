@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5."
+    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
   },
 };
 ```
