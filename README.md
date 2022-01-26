@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "We messed up the keming again guys."
+    joke: "// This line doesn't actually do anything, but the code stops working when I delete it."
   },
 };
 ```
