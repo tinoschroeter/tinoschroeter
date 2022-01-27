@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I have a joke about Stack Overflow, but you would say it's a duplicate."
+    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
   },
 };
 ```
