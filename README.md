@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5."
+    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
   },
 };
 ```
