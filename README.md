@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Can I tell you a TCP joke? Please tell me a TCP joke. OK, I'll tell you a TCP joke."
+    joke: "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
   },
 };
 ```
