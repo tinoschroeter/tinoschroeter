@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
   },
 };
 ```
