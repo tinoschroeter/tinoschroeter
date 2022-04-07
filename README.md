@@ -12,7 +12,7 @@ const tino = {
   bio: "Passionate DevOps Engineer and self-taught Web Developer",
   code: ["Javascript", "Node.js", "React", "HTML", "CSS", "Bash"],
   technologies: {
-    tools: ["Kubernetes", "Docker", "Terraform", "Ansible", "Chef"],
+    tools: ["Kubernetes", "Docker", "Terraform", "Salt", "Ansible", "Chef"],
     databases: ["mongoDB", "MySql", "PostgreSQL"],
     misc: [
       "Linux",
@@ -23,7 +23,7 @@ const tino = {
       "k3s",
       "Let’s Encrypt",
       "KVM",
-      "Haproxy",
+      "Rubik's Cube",
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
