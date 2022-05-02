@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
+    joke: "Judge: I sentence you to the maximum punishment... Me (thinking): Please be death, please be death... Judge: Learn Java! Me: Damn."
   },
 };
 ```
