@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."
+    joke: "I'd tell you a joke about NAT but I would have to translate."
   },
 };
 ```
