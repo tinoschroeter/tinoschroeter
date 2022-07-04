@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "Eight bytes walk into a bar. The bartender asks, Can I get you anything? Yeah, reply the bytes. Make us a double."
   },
 };
 ```
