@@ -13,13 +13,14 @@ const tino = {
   code: ["Javascript", "Node.js", "React", "HTML", "CSS", "Bash"],
   technologies: {
     tools: ["Kubernetes", "Docker", "Terraform", "Salt", "Ansible", "Chef"],
-    databases: ["mongoDB", "MySql", "PostgreSQL"],
+    databases: ["mongoDB", "MySql", "SQLite", "PostgreSQL"],
     misc: [
       "Grafana",
       "Jenkins",
       "Kibana",
       "Let’s Encrypt",
       "Linux",
+      "SRE",
       "Prometheus",
       "Rubik's Cube",
       "Vim",
