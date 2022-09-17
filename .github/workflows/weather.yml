@@ -2,7 +2,7 @@ name: Update weather
 
 on:
   schedule:
-    - cron: "*/60 7-23 * * *"
+    - cron: "*/30 7-23 * * *"
   workflow_dispatch:
 
 jobs:
