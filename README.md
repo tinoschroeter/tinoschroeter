@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I'd tell you a joke about NAT but I would have to translate."
+    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
   },
 };
 ```
