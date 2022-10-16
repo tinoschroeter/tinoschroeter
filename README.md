@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "// This line doesn't actually do anything, but the code stops working when I delete it."
+    joke: "A SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?"
   },
 };
 ```
