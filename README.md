@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging: Removing the needles from the haystack."
+    joke: "I'd tell you a joke about NAT but I would have to translate."
   },
 };
 ```
