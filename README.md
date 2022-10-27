@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
+    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
   },
 };
 ```
