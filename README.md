@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+    joke: "Eight bytes walk into a bar. The bartender asks, Can I get you anything? Yeah, reply the bytes. Make us a double."
   },
 };
 ```
