@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    joke: "Knock, knock. Who's there?  [very long pause]  Java."
   },
 };
 ```
