@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Can I tell you a TCP joke? Please tell me a TCP joke. OK, I'll tell you a TCP joke."
+    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
   },
 };
 ```
