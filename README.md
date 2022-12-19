@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
+    joke: "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says Do you get the reference? But Java didn't."
   },
 };
 ```
