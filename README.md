@@ -9,7 +9,7 @@
 
 ```javascript
 const tino = {
-  bio: "Passionate System Engineer and self-taught Web Developer",
+  bio: "Passionate System Engineer, L33tC0d3r and self-taught Web Developer",
   code: ["Javascript", "Node.js", "React", "HTML", "CSS", "Bash"],
   technologies: {
     tools: ["Kubernetes", "Docker", "Terraform", "Salt", "Ansible", "Chef"],
