@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Honey, go to the store and buy some eggs. OK. Oh and while you're there, get some milk. He never returned."
+    joke: "Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you."
   },
 };
 ```
