@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
+    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
   },
 };
 ```
