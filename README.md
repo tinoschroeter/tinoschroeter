@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "ASCII silly question, get a silly ANSI."
+    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
   },
 };
 ```
