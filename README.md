@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "A byte walks into a bar looking miserable. The bartender asks it: What's wrong buddy? Parity error. it replies.  Ah that makes sense, I thought you looked a bit off."
   },
 };
 ```
