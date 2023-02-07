@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
+    joke: "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
   },
 };
 ```
