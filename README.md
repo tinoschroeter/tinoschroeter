@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The generation of random numbers is too important to be left to chance."
+    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
   },
 };
 ```
