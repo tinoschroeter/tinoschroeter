@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Judge: I sentence you to the maximum punishment... Me (thinking): Please be death, please be death... Judge: Learn Java! Me: Damn."
+    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
   },
 };
 ```
