@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
+    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
   },
 };
 ```
