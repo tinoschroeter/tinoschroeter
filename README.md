@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5."
+    joke: "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
   },
 };
 ```
