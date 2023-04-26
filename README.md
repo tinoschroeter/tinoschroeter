@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
+    joke: "ASCII silly question, get a silly ANSI."
   },
 };
 ```
