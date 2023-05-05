@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    joke: "I have a joke about Stack Overflow, but you would say it's a duplicate."
   },
 };
 ```
