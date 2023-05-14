@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "I have a joke about Stack Overflow, but you would say it's a duplicate."
   },
 };
 ```
