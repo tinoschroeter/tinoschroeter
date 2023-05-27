@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    joke: "The generation of random numbers is too important to be left to chance."
   },
 };
 ```
