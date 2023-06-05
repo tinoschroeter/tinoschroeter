@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    joke: "Eight bytes walk into a bar. The bartender asks, Can I get you anything? Yeah, reply the bytes. Make us a double."
   },
 };
 ```
