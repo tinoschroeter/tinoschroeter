@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I'd tell you a joke about NAT but I would have to translate."
+    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
   },
 };
 ```
