@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
+    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
   },
 };
 ```
