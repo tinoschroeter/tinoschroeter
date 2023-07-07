@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Honey, go to the store and buy some eggs. OK. Oh and while you're there, get some milk. He never returned."
+    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
   },
 };
 ```
