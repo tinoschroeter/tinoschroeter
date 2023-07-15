@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
   },
 };
 ```
