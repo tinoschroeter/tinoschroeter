@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
+    joke: "The generation of random numbers is too important to be left to chance."
   },
 };
 ```
