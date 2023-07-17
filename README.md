@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The generation of random numbers is too important to be left to chance."
+    joke: "A byte walks into a bar looking miserable. The bartender asks it: What's wrong buddy? Parity error. it replies.  Ah that makes sense, I thought you looked a bit off."
   },
 };
 ```
