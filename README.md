@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The generation of random numbers is too important to be left to chance."
+    joke: "Debugging: Removing the needles from the haystack."
   },
 };
 ```
