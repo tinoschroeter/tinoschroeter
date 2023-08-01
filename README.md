@@ -28,13 +28,13 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes.",
   },
 };
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinoschroeter&layout=compact&hide=css,html,php,perl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tinoschroeter)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tinoschroeter)](https://github.com/tinoschroeter/leetCode#leetcod)
 
 ![automate](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/automate.png)
