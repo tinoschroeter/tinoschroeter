@@ -28,7 +28,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging: Removing the needles from the haystack."
+    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
   },
 };
 ```
