@@ -5,7 +5,6 @@
 [![projects](https://img.shields.io/badge/Projects-46a2f1.svg?&style=flat-square&logo=Cachet&logoColor=white&link=https://tino.sh/projects)](https://tino.sh/projects)
 [![visitors](https://counter.tino.sh/visitor/tinoschroeter)](https://github.com/tinoschroeter/counter)
 ![weather](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/weather.svg)
-[![GitHub Super-Linter](https://github.com/tinoschroeter/tinoschroeter/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/tinoschroeter/tinoschroeter/actions/workflows/linter.yml)
 
 ```javascript
 const tino = {
@@ -28,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
+    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday.",
   },
 };
 ```
