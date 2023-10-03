@@ -1,16 +1,14 @@
+"use srict";
+
 const fs = require("fs");
-("use srict");
 
-const axios = require("axios").default;
 const api =
-  "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&format=txt&type=single";
+  "https://v2.jokeapi.dev/joke/Programming?blacklistFlags=nsfw,religious,political,racist,sexist,explicit&format=json&type=single";
 
-axios
-  .get(api)
-  .then((response) => {
-    const joke = response.data
-      .replace(/(?:\r\n|\r|\n)/g, " ")
-      .replace(/"/g, "");
+fetch(api)
+  .then((response) => response.json())
+  .then((data) => {
+    const joke = data.joke.replace(/(?:\r\n|\r|\n)/g, " ").replace(/"/g, "");
 
     fs.readFile("./README.md", "utf8", (err, data) => {
       if (err) {
