@@ -28,12 +28,14 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
+    joke: "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning.",
   },
 };
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinoschroeter&layout=compact&hide=css,html,php,perl)](https://github.com/anuraghazra/github-readme-stats)
+
+## LeetCode
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tinoschroeter)](https://github.com/tinoschroeter/leetCode#leetcode)
 
