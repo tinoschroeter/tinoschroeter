@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    joke: "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
   },
 };
 ```
