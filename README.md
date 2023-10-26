@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "There are only 10 kinds of people in this world: those who know binary and those who don't."
+    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
   },
 };
 ```
