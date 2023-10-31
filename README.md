@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "Debugging is like being the detective in a crime movie where you're also the murderer at the same time."
   },
 };
 ```
