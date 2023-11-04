@@ -4,7 +4,7 @@
 [![Xing: tino](https://img.shields.io/badge/-Xing-green?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Tino_Schroeter/)](https://www.xing.com/profile/Tino_Schroeter/)
 [![projects](https://img.shields.io/badge/Projects-46a2f1.svg?&style=flat-square&logo=Cachet&logoColor=white&link=https://tino.sh/projects)](https://tino.sh/projects)
 [![visitors](https://counter.tino.sh/visitor/tinoschroeter)](https://github.com/tinoschroeter/counter)
-![weather](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/weather.svg)
+[![weather](https://wtr.tino.sh/button/hamburg)](https://github.com/tinoschroeter/wtr.tino.sh)
 
 ```javascript
 const tino = {
@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock.",
   },
 };
 ```
