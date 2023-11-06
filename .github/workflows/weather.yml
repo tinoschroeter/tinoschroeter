@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Make CURL Request
-        run: curl https://wtr.tino.sh/button/hamburg
+        run: curl "https://wtr.tino.sh/button/hamburg%20germany"
