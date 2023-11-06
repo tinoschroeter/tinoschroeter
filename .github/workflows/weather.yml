@@ -2,7 +2,7 @@ name: Update weather
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   curl-job:

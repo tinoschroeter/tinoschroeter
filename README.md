@@ -4,7 +4,7 @@
 [![Xing: tino](https://img.shields.io/badge/-Xing-green?style=flat-square&logo=Xing&logoColor=white&link=https://www.xing.com/profile/Tino_Schroeter/)](https://www.xing.com/profile/Tino_Schroeter/)
 [![projects](https://img.shields.io/badge/Projects-46a2f1.svg?&style=flat-square&logo=Cachet&logoColor=white&link=https://tino.sh/projects)](https://tino.sh/projects)
 [![visitors](https://counter.tino.sh/visitor/tinoschroeter)](https://github.com/tinoschroeter/counter)
-[![weather](https://wtr.tino.sh/button/hamburg)](https://github.com/tinoschroeter/wtr.tino.sh)
+[![weather](https://wtr.tino.sh/button/hamburg%20germany)](https://github.com/tinoschroeter/wtr.tino.sh)
 
 ```javascript
 const tino = {
@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
+    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?",
   },
 };
 ```
