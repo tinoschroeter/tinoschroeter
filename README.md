@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "ASCII silly question, get a silly ANSI."
+    joke: "A SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?"
   },
 };
 ```
