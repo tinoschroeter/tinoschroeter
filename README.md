@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
+    joke: "I'd tell you a joke about NAT but I would have to translate."
   },
 };
 ```
