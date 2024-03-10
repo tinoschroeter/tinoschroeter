@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."
+    joke: "// This line doesn't actually do anything, but the code stops working when I delete it."
   },
 };
 ```
