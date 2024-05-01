@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
+    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
   },
 };
 ```
