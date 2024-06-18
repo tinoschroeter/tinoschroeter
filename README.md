@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
+    joke: "A byte walks into a bar looking miserable. The bartender asks it: What's wrong buddy? Parity error. it replies.  Ah that makes sense, I thought you looked a bit off."
   },
 };
 ```
