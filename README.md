@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Honey, go to the store and buy some eggs. OK. Oh and while you're there, get some milk. He never returned."
+    joke: "UDP is better in the COVID era since it avoids unnecessary handshakes."
   },
 };
 ```
