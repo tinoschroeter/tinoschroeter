@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A SQL statement walks into a bar and sees two tables. It approaches, and asks may I join you?"
+    joke: "Eight bytes walk into a bar. The bartender asks, Can I get you anything? Yeah, reply the bytes. Make us a double."
   },
 };
 ```
