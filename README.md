@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
+    joke: "Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you."
   },
 };
 ```
