@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
+    joke: "Two C strings walk into a bar. The bartender asks What can I get ya? The first string says I'll have a gin and tonic. The second string thinks for a minute, then says I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@ The first string apologizes, You'll have to excuse my friend, he's not null-terminated."
   },
 };
 ```
