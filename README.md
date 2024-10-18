@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
   },
 };
 ```
