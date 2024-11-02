@@ -9,10 +9,10 @@
 ```javascript
 const tino = {
   bio: "Passionate System Engineer, L33tC0d3r and self-taught Web Developer",
-  code: ["Javascript", "Node.js", "React", "HTML", "CSS", "Bash"],
+  code: ["Javascript", "Node.js", "React", "HTML", "CSS", "sql", "Bash"],
   technologies: {
-    tools: ["Kubernetes", "Docker", "Terraform", "Salt", "Ansible", "Chef"],
-    databases: ["mongoDB", "MySql", "SQLite", "PostgreSQL"],
+    tools: ["Kubernetes", "Docker", "Terraform", "Saltstack", "Ansible"],
+    databases: ["mongoDB", "SQLite", "PostgreSQL", "MySql"],
     misc: [
       "Grafana",
       "Jenkins",
@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
+    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double.",
   },
 };
 ```
