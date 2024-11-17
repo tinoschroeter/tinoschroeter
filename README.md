@@ -32,7 +32,7 @@ const tino = {
 };
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinoschroeter&layout=compact&hide=css,html,php,perl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinoschroeter&layout=compact&hide=css,html,php,perl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## LeetCode
 
