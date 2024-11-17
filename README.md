@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
+    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock.",
   },
 };
 ```
@@ -36,6 +36,6 @@ const tino = {
 
 ## LeetCode
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=tinoschroeter)](https://github.com/tinoschroeter/leetCode#leetcode)
+[![LeetCode stats](https://leetcard.jacoblin.cool/tinoschroeter)](https://github.com/tinoschroeter/leetCode#leetcode)
 
 ![automate](https://raw.githubusercontent.com/tinoschroeter/tinoschroeter/master/automate.png)
