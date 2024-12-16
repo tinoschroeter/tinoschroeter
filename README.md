@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
+    joke: "Two SQL tables sit at the bar. A query approaches and asks Can I join you?"
   },
 };
 ```
