@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Two C strings walk into a bar. The bartender asks What can I get ya? The first string says I'll have a gin and tonic. The second string thinks for a minute, then says I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@ The first string apologizes, You'll have to excuse my friend, he's not null-terminated."
+    joke: "Four engineers get into a car. The car won't start. The Mechanical engineer says It's a broken starter. The Electrical engineer says Dead battery. The Chemical engineer says Impurities in the gasoline. The IT engineer says Hey guys, I have an idea: How about we all get out of the car and get back in."
   },
 };
 ```
