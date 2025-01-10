@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
   },
 };
 ```
