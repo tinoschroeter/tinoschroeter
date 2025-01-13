@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Four engineers get into a car. The car won't start. The Mechanical engineer says It's a broken starter. The Electrical engineer says Dead battery. The Chemical engineer says Impurities in the gasoline. The IT engineer says Hey guys, I have an idea: How about we all get out of the car and get back in."
+    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
   },
 };
 ```
