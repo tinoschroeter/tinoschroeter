@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Algorithm: A word used by programmers when they don't want to explain how their code works."
+    joke: "Knock knock. Who's there? Recursion. Recursion who? Knock knock."
   },
 };
 ```
