@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I have a joke about Stack Overflow, but you would say it's a duplicate."
+    joke: "// This line doesn't actually do anything, but the code stops working when I delete it."
   },
 };
 ```
