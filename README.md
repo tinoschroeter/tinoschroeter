@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
+    joke: "Being a self-taught developer is almost the same as being a cut neck chicken because you have no sense of direction in the beginning."
   },
 };
 ```
