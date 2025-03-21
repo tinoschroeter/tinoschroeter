@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Your momma is so fat, you need to switch to NTFS to store a picture of her."
+    joke: "Knock, knock. Who's there?  [very long pause]  Java."
   },
 };
 ```
