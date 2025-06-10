@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Your momma is so fat, you need to switch to NTFS to store a picture of her."
+    joke: "Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you."
   },
 };
 ```
