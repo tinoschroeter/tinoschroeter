@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock, knock. Who's there?  [very long pause]  Java."
+    joke: "Judge: I sentence you to the maximum punishment... Me (thinking): Please be death, please be death... Judge: Learn Java! Me: Damn."
   },
 };
 ```
