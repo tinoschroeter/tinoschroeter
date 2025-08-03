@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
+    joke: "How do you tell HTML from HTML5? - Try it out in Internet Explorer - Did it work? - No? - It's HTML5."
   },
 };
 ```
