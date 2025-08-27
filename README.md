@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Your momma is so fat, you need to switch to NTFS to store a picture of her."
+    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
   },
 };
 ```
