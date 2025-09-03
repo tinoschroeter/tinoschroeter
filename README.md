@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says Do you get the reference? But Java didn't."
+    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
   },
 };
 ```
