@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."
+    joke: "Knock, knock. Who's there?  [very long pause]  Java."
   },
 };
 ```
