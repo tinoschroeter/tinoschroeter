@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Your mama's so FAT she can't save files bigger than 4GB."
+    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
   },
 };
 ```
