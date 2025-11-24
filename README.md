@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work?"
+    joke: "A byte walks into a bar looking miserable. The bartender asks it: What's wrong buddy? Parity error. it replies.  Ah that makes sense, I thought you looked a bit off."
   },
 };
 ```
