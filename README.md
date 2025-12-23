@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Can I tell you a TCP joke? Please tell me a TCP joke. OK, I'll tell you a TCP joke."
+    joke: "Your mama's so FAT she can't save files bigger than 4GB."
   },
 };
 ```
