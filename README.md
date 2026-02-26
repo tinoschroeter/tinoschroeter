@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says Can't you see the warning on the cigarette pack? Smoking is hazardous to your health! to which the man replies, I am a programmer.  We don't worry about warnings; we only worry about errors."
+    joke: "Can I tell you a TCP joke? Please tell me a TCP joke. OK, I'll tell you a TCP joke."
   },
 };
 ```
