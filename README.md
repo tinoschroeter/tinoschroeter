@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Knock, knock. Who's there?  [very long pause]  Java."
+    joke: "ASCII silly question, get a silly ANSI."
   },
 };
 ```
