@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "// This line doesn't actually do anything, but the code stops working when I delete it."
+    joke: "Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."
   },
 };
 ```
