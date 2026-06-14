@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says Can't you see the warning on the cigarette pack? Smoking is hazardous to your health! to which the man replies, I am a programmer.  We don't worry about warnings; we only worry about errors."
+    joke: "Four engineers get into a car. The car won't start. The Mechanical engineer says It's a broken starter. The Electrical engineer says Dead battery. The Chemical engineer says Impurities in the gasoline. The IT engineer says Hey guys, I have an idea: How about we all get out of the car and get back in."
   },
 };
 ```
