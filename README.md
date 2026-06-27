@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Can I tell you a TCP joke? Please tell me a TCP joke. OK, I'll tell you a TCP joke."
+    joke: "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science."
   },
 };
 ```
