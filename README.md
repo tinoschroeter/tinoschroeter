@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "I've got a really good UDP joke to tell you but I don’t know if you'll get it."
+    joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."
   },
 };
 ```
