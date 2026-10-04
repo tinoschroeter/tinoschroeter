@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "Debugging: Removing the needles from the haystack."
+    joke: "Your mama's so FAT she can't save files bigger than 4GB."
   },
 };
 ```
