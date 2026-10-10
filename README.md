@@ -27,7 +27,7 @@ const tino = {
     ],
     cloud: ["AWS", "GCP", "Firebase"],
     IoT: ["Arduino", "Raspberry Pi", "ESP8266", "3D Printing"],
-    joke: "A guy walks into a bar and asks for 1.4 root beers. The bartender says I'll have to charge you extra, that's a root beer float. The guy says In that case, better make it a double."
+    joke: "A man is smoking a cigarette and blowing smoke rings into the air. His girlfriend becomes irritated with the smoke and says Can't you see the warning on the cigarette pack? Smoking is hazardous to your health! to which the man replies, I am a programmer.  We don't worry about warnings; we only worry about errors."
   },
 };
 ```
